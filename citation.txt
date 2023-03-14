@@ -1,0 +1,10 @@
+@article{REPO-275,
+    author = "Du, Xiaolin and Wang, Dan and Ye, Yunming and Li, Yan and Li, Yueping",
+    journal = "International Journal of Information Technology and Management",
+    number = "2-3",
+    pages = "227--242",
+    publisher = "Inderscience Publishers (IEL)",
+    title = "{SGP: A Social Network Sampling Method Based on Graph Partition}",
+    volume = "18",
+    year = "2019"
+}
